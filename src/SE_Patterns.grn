@@ -1,0 +1,39 @@
+<uml>
+   <greenVersion="30100"/>
+   <type>
+      <name="=SE_Patterns/src<SE_Patterns{Rental.java[Rental"/>
+      <height="-1"/>
+      <width="-1"/>
+      <x="32"/>
+      <y="86"/>
+   </type>
+   <type>
+      <name="=SE_Patterns/src<SE_Patterns{Customer.java[Customer"/>
+      <height="-1"/>
+      <width="-1"/>
+      <x="55"/>
+      <y="254"/>
+   </type>
+   <type>
+      <name="=SE_Patterns/src<SE_Patterns{Movie.java[Movie"/>
+      <height="-1"/>
+      <width="-1"/>
+      <x="326"/>
+      <y="50"/>
+   </type>
+   <type>
+      <name="=SE_Patterns/src<SE_Patterns{Program.java[Program"/>
+      <height="-1"/>
+      <width="-1"/>
+      <x="347"/>
+      <y="293"/>
+   </type>
+   <relationship>
+      <class="edu.buffalo.cse.green.relationship.association.AssociationPart"/>
+      <sourceType="=SE_Patterns/src<SE_Patterns{Rental.java[Rental"/>
+      <targetType="=SE_Patterns/src<SE_Patterns{Movie.java[Movie"/>
+      <bendpoints>
+      </bendpoints>
+   </relationship>
+</uml>
+
